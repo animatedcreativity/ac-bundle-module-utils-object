@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-utils-object",
+  "version": "0.0.3",
+  "description": "utils/object.js: A module bundled by ac-bundle-module.",
+  "main": "utils/object.js",
+  "scripts": {
+    "start": "node utils/object.js"
+  },
+  "keywords": [
+    "utils/object.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-utils-object/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
